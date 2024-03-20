@@ -1,0 +1,1 @@
+print("Ce frumos")
